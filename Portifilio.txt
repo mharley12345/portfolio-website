@@ -1,0 +1,23 @@
+
+
+
+Class footer = []
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <footer href="Portfolio.Harley-Enterpises.Me'"></footer>
